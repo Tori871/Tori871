@@ -20,10 +20,9 @@ Tech Stack
   - Baking
 
    Focus Area
-   
-      Software Engineering major with a focus in fullstack engineering and cybersecurity who builds practical and creative   
-        projects.
+  
+   Software Engineering major with a focus in fullstack engineering and cybersecurity who builds practical and creative  projects.
 
    Contact 
    
-       You can reach me via LinkedIn
+   You can reach me via LinkedIn
