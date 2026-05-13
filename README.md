@@ -19,7 +19,7 @@ Tech Stack
   - Creating new things & puzzles
   - Baking
 
-   Focus
+   Focus Area
       Software Engineering major with a focus in fullstack engineering and cybersecurity who builds practical and creative   
       projects.
 
