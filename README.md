@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi 
 
-<!--
-**Tori871/Tori871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a creative builder who enjoys learning, experimenting, and making new things come to life. I love turning ideas into reality through code, design, and creativity. 
 
-Here are some ideas to get you started:
+Tech Stack
+- C 
+- Java
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Favorites & Interests 
+ - My favorite accessories: my laptop and iPad
+ - I have some cute goldfishes
+ - I am not a fan of coffee, but I love tea
+ - I enjoy watching foreign language movies and series
+ 
+  Hobbies 
+  - Painting
+  - Creating new things & puzzles
+  - Baking
+
+   Fun Facts
+     I love exploring different cultures through stories, visuals, and creativity.
+
+   Focus
+      Software Engineering major, graduating in 2031 with a focus in fullstack engineering and building practical and creative   
+      projects.
+
+   Contact 
+     You can reach me via LinkedIn
