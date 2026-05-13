@@ -1,5 +1,4 @@
 Hi 
-
 I am Tori, a software engineering major graduating in 2031 based in New York City & Connecticut.
 I am a creative builder who enjoys learning, experimenting, and making new things come to life. I love turning ideas into reality through code, design, and creativity. 
 
