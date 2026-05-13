@@ -6,7 +6,10 @@ I am a creative builder who enjoys learning, experimenting, and making new thing
 Tech Stack
 - C 
 - Java
+- Javascript
 - Python
+- C++
+- HTML
 
  Favorites & Interests 
  - My favorite accessories: my laptop and iPad
