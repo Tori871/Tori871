@@ -1,4 +1,5 @@
 Hi 
+
 I am Tori, a software engineering major graduating in 2031 based in New York City & Connecticut.
 I am a creative builder who enjoys learning, experimenting, and making new things come to life. I love turning ideas into reality through code, design, and creativity. 
 
@@ -19,8 +20,10 @@ Tech Stack
   - Baking
 
    Focus Area
-      - Software Engineering major with a focus in fullstack engineering and cybersecurity who builds practical and creative   
+   
+      Software Engineering major with a focus in fullstack engineering and cybersecurity who builds practical and creative   
         projects.
 
    Contact 
-      - You can reach me via LinkedIn
+   
+       You can reach me via LinkedIn
