@@ -28,4 +28,4 @@ Tech Stack
 
    Contact 
    
-   You can reach me via LinkedIn
+   You can reach me via LinkedIn & Email
